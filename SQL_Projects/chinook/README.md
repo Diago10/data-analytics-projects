@@ -13,7 +13,7 @@ Chinook is a sample database available for SQLite, MySQL, PostgreSQL, and SQL Se
 
 # Day 1: Select
 SELECT statement is used to select data from a database. The data returned is stored in a result table, called the result-set.
-- [Basic Select](/day1_select.sql)
+- [Basic Select](/SQL_Projects/chinook/day1_select.sql)
 - [Specific Columns](/day1_select.sql)
 
 # Day 2: Filtering
